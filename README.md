@@ -1,1 +1,1 @@
-# LeGo
+# Face recognition using OpenCV
